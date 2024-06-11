@@ -1,6 +1,6 @@
 # Perlengkapan dan Persiapan Pendakian Gunung Merbabu
 
-## Perlengkapan dan Perlengkapan
+## Perlengkapan Utama
 1. **Tas Carrier**: Pastikan memiliki tas carrier yang nyaman dengan kapasitas yang cukup untuk menampung semua perlengkapan.
 2. **Tenda**: Jika berencana untuk bermalam di gunung, bawa tenda yang ringan dan tahan angin.
 3. **Sleeping Bag dan Matras**: Untuk kenyamanan dan kehangatan saat tidur.
